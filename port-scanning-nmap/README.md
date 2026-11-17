@@ -36,4 +36,4 @@ I scanned only my own IP address, which has been redacted. The scan was run from
 
 **Other things I noticed.** Nmap warned that OS detection might be unreliable because it needs at least one open and one closed port, and I only had a closed one. Its guesses were scattered across routers, firewalls and several operating systems, which fits that warning. The traceroute also used the closed port, 33354.
 
-**Takeaway.** Filtered and closed ports reduce what an attacker can reach, but "filtered" doesn't mean "secure". It only means my scan couldn't see past the firewall, and a scan only shows what's visible from one position at one time.<img width="1920" height="1080"  src="https://github.com/user-attachments/assets/51be2587-c301-47f0-ab19-97c9024d9c3a" />
+**Takeaway.** Filtered and closed ports reduce what an attacker can reach, but "filtered" doesn't mean "secure". It only means my scan couldn't see past the firewall, and a scan only shows what's visible from one position at one time.
