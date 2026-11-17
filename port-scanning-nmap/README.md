@@ -14,9 +14,9 @@ Nmap, run through the Zenmap GUI with the Intense scan profile.
 - `-v`: verbose output
 
 ## Scope
-I scanned only my own IP address, which has been redacted. The scan was run from [home Wi-Fi / phone hotspot].
+I scanned only my own IP address, which has been redacted. The scan was run from home Wi-Fi.
 
-![Nmap scan output](nmap-scan-redacted.png)
+![Nmap scan output](../nmap-scan-redacted.png.png)
 
 ## Findings
 - The host was up, with 0.086s latency.
